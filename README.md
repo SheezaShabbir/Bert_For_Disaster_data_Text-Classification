@@ -1,0 +1,2 @@
+# Bert_For_Disaster_data_Text-Classification
+Disasters Classification using Bert
